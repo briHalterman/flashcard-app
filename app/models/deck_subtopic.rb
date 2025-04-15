@@ -1,0 +1,2 @@
+class DeckSubtopic < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class CardCustomTag < ApplicationRecord
+end
